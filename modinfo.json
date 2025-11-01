@@ -1,0 +1,15 @@
+{
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Code",
+  "modid": "archcomposermod",
+  "name": "archcomposermod",
+  "authors": [
+    "ArchAngel075"
+  ],
+  "description": "Addon for Instruments mod - allowing players to write and playback ABC song notation written on in-game paper",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.20.12",
+    "vsinstrumentsbase": "2.0.3"
+  }
+}
